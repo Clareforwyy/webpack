@@ -3,7 +3,7 @@
     <strong>{{vueMsg}}</strong>
 </template>
 <script>
-module.exports = {
+exports default{
     data() {
       return {vueMsg:'Vue hello world'}
     }

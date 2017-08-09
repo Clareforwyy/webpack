@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-document.write("运行成功0！");
+document.write("运行成功！");
 // var Vue = require('vue')
 // var helloVue = require('./views/demo.vue')
 // new Vue({
